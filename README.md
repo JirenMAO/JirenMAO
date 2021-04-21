@@ -2,9 +2,7 @@
 
 I am Mouad
 
-<details>
-    <img align="left" alt="JirenMAO's Github stats src="https://github-readme-stats-jirenmao.vercel.app/api?username=JirenMao&show_icons=true&hide_border=true"
-</details>
+<img align="left" alt="JirenMAO's Github stats src="https://github-readme-stats-jirenmao.vercel.app/api?username=JirenMao&show_icons=true&hide_border=true"
 
 github-readme-stats-jirenmao.vercel.app
 
